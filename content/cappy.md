@@ -23,3 +23,7 @@ Category: Cappy
 **Acquaintances**: | The Humans, Cold Brew, Latte
 **Sworn Enemies**: | Tilly, Maki, Moka, most visitors, animals and children in general
 **States Visited**: | CO, IN, IL, KS, KY, MO, TN
+
+## Backstory
+
+Cappy wandered into a friend's garage one night and out of pity over how small and afraid she was, they briefly took her in. With a child and two large dogs, they couldn't provide much safe space for a timid kitten, and she mostly remained under their guest bed. She could be coaxed out for some scritches with a little food, though. Over a decade later, Cappy has traveled to numerous states with us as I moved around for jobs, and though she has seen and learned and changed a lot, she remains to this day very easily food-motivated, and enjoys a good scritch while she's munching on kibs.

@@ -23,3 +23,7 @@ Category: Maki
 **Friends**: | The Humans, Moka, Cold Brew, Latte
 **Acquaintances**: | Cappy, Tilly
 **Sworn Enemies**: | Mice
+
+## Backstory
+
+Having decided to adopt a third cat, we ventured to the local humane society to meet a gray cat we had seen online. There was one big room with lots of cats in cages, and once inside, you were free to open any cage door and let the cats out one at a time. Mandarin (or so he was called then) reached out a paw and asked to be let out, and soon after was in my lap purring. I was still playing with him when my wife came in and said she had already signed the adoption papers.
