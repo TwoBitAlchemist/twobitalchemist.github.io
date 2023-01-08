@@ -35,5 +35,7 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 10
 
+# THEME = "C:/Users/sereg/dev/dev/personal/pelican-themes/<theme-name>"
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
