@@ -17,6 +17,12 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
+    ('Cappy Gallery', 'https://photos.app.goo.gl/MjwCxwgs3ruTqLjo9'),
+    ('Tilly Gallery', 'https://photos.app.goo.gl/85DgdRqXcVwviz2q8'),
+    ('Maki Gallery', 'https://photos.app.goo.gl/Uax2oto2dGGZsqsu6'),
+    ('Moka Gallery', 'https://photos.app.goo.gl/MgY4Y7LZDXTK4geXA'),
+    ('CB Gallery', 'https://photos.app.goo.gl/M1xr6wxdYfMAHLhY6'),
+    ('Latte Gallery', 'https://photos.app.goo.gl/AznneaCq4rQGxeYC7'),
 )
 
 # Social widget
